@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equilibri Saúde</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Equilibri Saúde</h1>
+        <img src="logo.png" alt="Logomarca Equilibri Saúde" class="logo">
+    </header>
+
+    <main>
+        <button onclick="window.location.href='cadastro.html'">Cadastro de Paciente</button>
+        <button onclick="window.location.href='https://link-para-consulta.com'">Marcar Consulta com a Dra. Ana</button>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Equilibri Saúde. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
